@@ -1,5 +1,5 @@
 # conky setup file
 
-copy the [.conkyrc](.conkyrd) file to your home folder ~/
+copy the [.conkyrc](.conkyrc) file to your home folder ~/
 
 ![png](screenshot.png)
